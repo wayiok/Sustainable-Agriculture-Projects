@@ -8,7 +8,7 @@ The most up-to-date notebook versions are on Kaggle : [Kaggle Notebook](https://
 
 ## Remarks
 
-The number of epochs is currently set to 2, and training takes about 1.5 hours to run. The main improvement area is the training stage—running more epochs (and tuning hyperparameters) should improve performance.
+The number of epochs is currently set to 2, and training takes about 2 hours to run. During testing accuracy arrived to 99%.
 
 ## How to use
 
